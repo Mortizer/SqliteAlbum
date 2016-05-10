@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="twoPane" type="bool">false</item>
+    <color name="fondoItem">#55FFAA00</color>
+    <color name="fondoTop">#AACC33</color>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <item name="activity_list" type="layout">@layout/menu</item>
+    <string name="add_new">Add new</string>
+    <string name="app_name">SqliteAlbum</string>
+    <string name="edit_title">Edit Title</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_comment">New Comment:</string>
+    <string name="new_img">Select image:</string>
+    <string name="new_title">New Title:</string>
+    <string name="no_data">No data</string>
+    <string name="title_activity_sql">SqliteAlbum</string>
+    <string name="txt_new_comment">Insert new comment...</string>
+    <string name="txt_new_title">Insert new title...</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

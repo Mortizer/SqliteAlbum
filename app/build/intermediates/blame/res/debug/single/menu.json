@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/menu/activity_menu.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/menu/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/menu/context_menu.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/activity_sql.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/activity_sql.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/fragment_edit_name.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/fragment_edit_name.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/search.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/search.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/fragment_new_name.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/fragment_new_name.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/layout/list_fragment.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/layout/list_fragment.xml"
+    }
+]

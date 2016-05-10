@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="twoPane" type="bool">false</item>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <item name="activity_list" type="layout">@layout/menu</item>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/drawable/vert_divider.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/drawable/vert_divider.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/drawable/rect_gradient.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/drawable/rect_gradient.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/drawable/no_img.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/drawable/no_img.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/drawable/box_edittext.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/drawable/box_edittext.xml"
+    },
+    {
+        "merged": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/drawable/hor_divider.xml",
+        "source": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/drawable/hor_divider.xml"
+    }
+]

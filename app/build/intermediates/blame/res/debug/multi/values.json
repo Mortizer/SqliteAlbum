@@ -1,0 +1,301 @@
+[
+    {
+        "outputFile": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/refs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 45,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 42,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 44,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 44,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 43,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 64,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/refs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 43,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 48,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 49,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 49,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 46,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 42,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 50,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 52,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 52,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 49,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 49,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 48,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 48,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 43,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 58,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 65,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 65,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 61,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 61,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 57,
+                    "endOffset": 1113
+                },
+                "from": {
+                    "file": "/Users/Mortizer/AndroidStudioProjects/SqliteAlbum/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
